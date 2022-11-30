@@ -1,1 +1,0 @@
-/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG   CMakeFiles/himom.dir/main.c.o CMakeFiles/himom.dir/shape.c.o  -o himom 

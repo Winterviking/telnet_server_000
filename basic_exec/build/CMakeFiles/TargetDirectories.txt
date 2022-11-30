@@ -1,7 +1,0 @@
-/home/master/Projects/basic_exec/build/CMakeFiles/install.dir
-/home/master/Projects/basic_exec/build/CMakeFiles/list_install_components.dir
-/home/master/Projects/basic_exec/build/CMakeFiles/rebuild_cache.dir
-/home/master/Projects/basic_exec/build/CMakeFiles/install/local.dir
-/home/master/Projects/basic_exec/build/CMakeFiles/himom.dir
-/home/master/Projects/basic_exec/build/CMakeFiles/edit_cache.dir
-/home/master/Projects/basic_exec/build/CMakeFiles/install/strip.dir
